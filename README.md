@@ -1,6 +1,6 @@
 # 🤖 EmpatheticAI: Mental Health Support Chatbot
 
-![EmpatheticAI Banner]("https://github.com/Pranay22077/Empethetical-AI/blob/main/Screenshot%202025-04-09%20171918.png")
+![EmpatheticAI Banner]("https://github.com/Pranay22077/Empathetical-AI/blob/main/Screenshot%202025-03-30%20121555.png")
 
 <div align="center">
   
