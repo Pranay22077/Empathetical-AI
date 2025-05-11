@@ -1,0 +1,32 @@
+# EmpatheticAI Requirements
+# Core dependencies
+google-generativeai>=0.5.0
+python-dotenv>=1.0.0
+requests>=2.28.0
+
+# Utility libraries
+tqdm>=4.65.0
+colorama>=0.4.6
+
+# Data handling
+pydantic>=2.0.0
+python-dateutil>=2.8.2
+
+# Error handling and retries
+tenacity>=8.2.0
+backoff>=2.2.1
+
+# Conversation management
+jsonlines>=3.1.0
+
+# Security
+cryptography>=40.0.0
+
+# Terminal interface improvements (optional)
+rich>=13.3.0
+prompt-toolkit>=3.0.36
+
+# Testing dependencies
+pytest>=7.3.1
+pytest-cov>=4.1.0
+responses>=0.23.0
