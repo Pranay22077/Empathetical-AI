@@ -79,9 +79,9 @@ class MentalHealthChatbot:
             if crisis_detected:
                 response_text += (
                     "\n\n🚨 **IMPORTANT:** If you're in crisis, please reach out to these resources:\n"
-                    "- 📞 National Suicide Prevention Lifeline: **988** or **1-800-273-8255**\n"
+                    "- 📞 **National Suicide Prevention Lifeline:** 112 or 91-9820466726\n"
                     "- 📱 Crisis Text Line: **Text HOME to 741741**\n"
-                    "- 🚑 Emergency: Call **911** (US) or your local emergency number"
+                    "- 🚑 **Emergency:** Call Aasra: +91-9820466726 (IN) or your local emergency number"
                 )
 
             return response_text
