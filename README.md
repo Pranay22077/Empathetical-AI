@@ -71,6 +71,7 @@ cd empathetic-ai
 
 ```bash
 pip install -r requirements.txt
+[requirements] (https://github.com/Pranay22077/Empathetical-AI/blob/main/requirements.txt)
 ```
 
 3. **Set up your Google Gemini API key:**
