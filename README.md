@@ -23,7 +23,6 @@
 - [How It Works](#-how-it-works)
 - [Troubleshooting](#-troubleshooting)
 - [Contributing](#-contributing)
-- [License](#-license)
 - [Acknowledgements](#-acknowledgements)
 
 ---
@@ -251,13 +250,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgements
+## Acknowledgements
 
 - [Google Gemini API](https://ai.google.dev/) for the underlying language model
 
